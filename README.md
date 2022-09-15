@@ -1,7 +1,6 @@
 ### Oizinho eu me chamo Liana 👋
 
-- 🔭 Eu estou na busca de um emprego!
-- 🌱 Por enquanto apredendo mais linguagens de programação
+- 🔭 Toda hora aprendendo algo novo!
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fato difenciado:Eu desenho!
 
@@ -13,7 +12,7 @@
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="90" 
+  <img align="center" alt="Lia-J" height="50" width="90" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
  </div>
 
