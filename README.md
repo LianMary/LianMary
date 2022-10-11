@@ -2,7 +2,7 @@
 
 - 🔭 Toda hora aprendendo algo novo!
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fato difenciado:Eu desenho!
+- ⚡ Fato difenciado: Eu desenho!
 
 <div>
   <a href="https://beacons.ai/LianMary">
