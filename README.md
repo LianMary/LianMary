@@ -1,6 +1,6 @@
-### Oizinho eu me chamo Liana 👋
+### My name is Liana 👋
 
-- 🔭 Bolsista do Programa Futura - Fortaleza, CE
+- 🔭 Fortaleza, CE
 - 😄 Pronouns: Ela/Dela
 - ⚡ Just a Dev in this world
 
