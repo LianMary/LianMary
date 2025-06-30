@@ -1,8 +1,8 @@
 ### My name is Liana 👋
 
 - 🔭 Fortaleza, CE
-- 😄 Pronouns: Ela/Dela
-- ⚡ Just a Dev in this world
+- 😄 Pronouns: Ela/Dela , She/Her
+- ⚡ Little Miss Woman in STEAM
 
 <div align= "center">
   <a href="https://beacons.ai/LianMary">
