@@ -5,6 +5,11 @@
 </div>
 
 <img align="center" alt="" src="./src/banner github.png">
+<div>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=492FAE&center=true&repeat=false&width=435&lines=%E2%9C%A6+%E2%9C%A7++++%E2%9C%A7+%E2%9C%A6" alt="Typing SVG" />
+    </a>
+</div>
 
 <p aling="center"> Sou estudante de Análise e Desenvolvimento de Sistemas em formação e atualmente estou estudando sobre AWS, SAS e DevOps! Espero um dia ter como hobby montar e configurar sistemas embasrcados! </p>
 
