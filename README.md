@@ -12,9 +12,7 @@
   </a>
 </div>
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unifametro e atuo com suporte e manutenção de sistemas. Tenho como objetivo profissional me inserir em **Desenvolvimento DevOps**, criando sistemas que auxiliem o dia a dia e tragam inovação e facilidade aos processos. Além disso, tenho interesse em soluções em nuvem e suas aplicações.
-
-Atualmente, sou Estágiaria em TI e atuo não somente no desenvolvimento mas todos os processos diários da T.I desde ao Suporte N1 aconfiguração de sistemas da empressa. 
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unifametro e atuo em atividades de rotina de Analista de Sistemas. Tenho como objetivo profissional me inserir em **Desenvolvimento DevOps**, criando sistemas que auxiliem o dia a dia e tragam inovação e facilidade aos processos.
 
 <div align= "center" >
   <a href="https://git.io/typing-svg">
